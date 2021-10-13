@@ -85,6 +85,7 @@
 }
 .play{
   position: absolute;
+  cursor: pointer;
 }
 
 video {
